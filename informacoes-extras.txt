@@ -1,0 +1,1 @@
+Neste arquivo estão informações geradas no repositório local e que serão enviadas ao repositório remoto.
